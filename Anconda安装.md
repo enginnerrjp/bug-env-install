@@ -72,7 +72,7 @@ channels:
 
 
 ##tensorflow 安装
-*参考[csdn](https://blog.csdn.net/weixin_44498793/article/details/103962196 '3.7+2.0(GPU)')
+* 参考[csdn](https://blog.csdn.net/weixin_44498793/article/details/103962196 '3.7+2.0(GPU)')
 
 
 
